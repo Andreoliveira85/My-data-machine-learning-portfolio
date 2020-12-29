@@ -1,17 +1,17 @@
 # Table of contents
 - [Project 1. Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices](#P1)
 - [Project 2. NYSE Prediction of Prices](#P2)
-- [Project 3. Electronic Signature of Loans] (#P3)
-- [Project 4. Hybrid Mutual Fund Analysis] (#P4)
-- [Project 5. Linear Regression in E-commerce] (#P5)
-- [Project 6. Advertisement with ML] (#P6)
-- [Project 7. Detecting fraud with ML] (#P7)
-- [Project 8. NLP MiniProject] (#P8)
-- [Project 9. Classification of galaxies, stars and quasars] (#P9)
-- [Project 10. Miniproject DL: Breast cancer detection] (#P10)
-- [Project 11.DL project; Yolo object detection] (#P11)
-- [Project 12. Tinder recommendation system] (#P12)
-- [Project 13. Clustering for Uber Pickups] (#P13)
+- [Project 3. Electronic Signature of Loans](#P3)
+- [Project 4. Hybrid Mutual Fund Analysis](#P4)
+- [Project 5. Linear Regression in E-commerce](#P5)
+- [Project 6. Advertisement with ML](#P6)
+- [Project 7. Detecting fraud with ML](#P7)
+- [Project 8. NLP MiniProject](#P8)
+- [Project 9. Classification of galaxies, stars and quasars](#P9)
+- [Project 10. Miniproject DL: Breast cancer detection](#P10)
+- [Project 11.DL project; Yolo object detection](#P11)
+- [Project 12. Tinder recommendation system](#P12)
+- [Project 13. Clustering for Uber Pickups](#P13)
   
 # [Project 1.Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices](https://github.com/Andreoliveira85/Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices) <a name="P1"></a>
 **Final project for concluding the Fullstack formation in Data Science at Jedha in Paris.**
