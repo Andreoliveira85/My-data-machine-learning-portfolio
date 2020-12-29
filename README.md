@@ -65,6 +65,14 @@ The tendency of the index that we built on the classification of the tweets is p
 
 ![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
 
+* split
+ <img src="https://full-stack-assets.s3.eu-west-3.amazonaws.com/images/utility_matrix.png"/>
+
+
+* split <img src="https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg" />
+
+
+* split 
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg)
 
