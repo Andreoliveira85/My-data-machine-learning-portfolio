@@ -9,7 +9,7 @@
 - [Project 8. NLP MiniProject](#P8)
 - [Project 9. Classification of galaxies, stars and quasars](#P9)
 - [Project 10. Miniproject DL: Breast cancer detection](#P10)
-- [Project 11.DL project; Yolo object detection](#P11)
+- [Project 11.DL project: Yolo object detection](#P11)
 - [Project 12. Tinder recommendation system](#P12)
 - [Project 13. Clustering for Uber Pickups](#P13)
 - [Project 14. NLP-Project-with-Deep-Learning: Construction of a Translator machine](#P14)
@@ -280,8 +280,17 @@ http://www.sdss.org/
 
 We start exploring visually the data in order to try to understanding patterns in the quantitative variables gathered from the measurements. In order to solve the classification problem, after doing some feature engineering and a train/test split of 33% size, we use the ensemble learning XGBoost algorithm in order to retrieve the features hierarchy importances. In a second step in order to validate the model we use GridSearchCV with 2 folds and obtain the score on the test set  for the 1st fold 0.9904477611940299 and 0.991044776119403 for the second.
 
+* Equatorial coordinates of the 3 class objects
 
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/equatorial_coords.jpg)
 
+* Feature importance of the main explanatory variables
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/feature_importance_galaxies.jpg)
+
+* Correlation between the main variables
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/correlations.jpg)
 
 ## Code and resources used:
 **Python version:** 3.7
@@ -312,7 +321,7 @@ This miniproject consists in using a CNN neural net model to predict (classifica
 
 
 
-# [Project 11.DL project: Yolo object detection](https://github.com/Andreoliveira85/NLP-Project-with-Deep-Learning)  <a name="P11"></a>
+# [Project 11-DL project: Yolo object detection](https://github.com/Andreoliveira85/NLP-Project-with-Deep-Learning)  <a name="P11"></a>
 ## Project description:
 ### Object Detection with YoloV3
 
