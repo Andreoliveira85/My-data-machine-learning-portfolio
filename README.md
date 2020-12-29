@@ -70,6 +70,12 @@ The tendency of the index that we built on the classification of the tweets is p
 
 * The results of the LSTM model on the train set (April 2018-April 2020 approx.). The model learned quite well.
 
+![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
+
+
+llll
+
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_training_set.jpg). 
 
 * The results of our model on the test set (April 2020- mid Sept 2020). The trends are followed by the predictions. There is a time period where the model performs far worst than the actual prices (August-September) but then the actual prices and the predictions start to converge again in the last two weeks of the dataset almost coallescing in the end.
