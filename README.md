@@ -59,6 +59,9 @@ The tendency of the index that we built on the classification of the tweets is p
 
 * Split between train and test set:
 
+![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
+
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg)
 
 * The results of the LSTM model on the train set (April 2018-April 2020 approx.). The model learned quite well.
@@ -67,7 +70,7 @@ The tendency of the index that we built on the classification of the tweets is p
 
 * The results of our model on the test set (April 2020- mid Sept 2020). The trends are followed by the predictions. There is a time period where the model performs far worst than the actual prices (August-September) but then the actual prices and the predictions start to converge again in the last two weeks of the dataset almost coallescing in the end.
 
-![https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_test_dataset.jpg]
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_test_dataset.jpg)
 
 * The loss function (Mean squared error) on train and test set (per epoch). Scale 10^-3
 
@@ -230,14 +233,17 @@ The "useful" and "funny" columns are similar to the "cool" column.
 ## Methodologies:
 
 After bivariate visualization analysis we construct a ML Pipeline based on the vectorization of the text of the reviews and a Multinomial Naive Bayes model to predict probability of bad reviews (1 star) or good reviews (5 stars). The classification report is below:  
+            
+            
+            
                 precision    recall  f1-score   support
 
-           1       0.91      0.68      0.78       228
-           5       0.93      0.98      0.96       998
+               1       0.91      0.68      0.78       228
+               5       0.93      0.98      0.96       998
 
-    accuracy                           0.93      1226
-   macro avg       0.92      0.83      0.87      1226
-weighted avg       0.93      0.93      0.92      1226
+        accuracy                           0.93      1226
+       macro avg       0.92      0.83      0.87      1226
+    weighted avg       0.93      0.93      0.92      1226
 
 ## Code and resources used:
 
