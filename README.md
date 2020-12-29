@@ -99,7 +99,8 @@ Deep Learning project
 
 We use two datasets relative to historical data for stocks market at the New York Stock Exchange market for the year 2016. We performed an exploratory data analysis of those stocks and created a neural net mix of GRU with LSTM models to predict prices. The predictions and the real values follow the same trends of growth or ungrowth genreally speaking and around certain periods of time (before the 50th day of that year and around day 130) they almost coalesce. 
 
-* Performance of the algorithm 
+* Performance of the algorithm:
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/NYSE_prices.jpg)
 
 ## Code and resources used:
 **Python version:** 3.7
@@ -301,6 +302,9 @@ This miniproject consists in using a CNN neural net model to predict (classifica
 
  After the usual ML pipeline with a train/test split of size 20% we train a CNN neural net with a binary cross-entropy loss of  0.0496 and accuracy 0.9805 on the train set against a loss of 0.0747 and accuracy 0.9737 on the test validation set. We confront predictions with the values on the test set and visualize the plots of the loss and the accuracy metrics on the train and test sets.
 
+* Performance of the algorithm:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/breast_cancer.jpg)
 
 ## Resources and code used:
 **Python version:** 3.7
@@ -418,6 +422,22 @@ Therefore, our project aims to retrieve a recommendation system such that **thei
 ### We will focus on:
 * Creating an algorithm to find hot zones DBSCAN vs Kmeans 
 * Visualizing results on a nice dashboard 
+
+## Visualizations of the clusters by Kmeans (evolution during hourly periods):
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/uber_kmeans1.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/uber_kmeans2.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/uber_kmeans3.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/uber_kmeans4.jpg)
+
+
+## Visualizations of the clusters using DBSCAN:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/uber_dbscan.jpg)
+
 
 ## Code/Resources used:
 **Python version:** 3.7
