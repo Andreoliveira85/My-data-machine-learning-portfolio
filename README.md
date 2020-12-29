@@ -57,6 +57,10 @@ The tendency of the index that we built on the classification of the tweets is p
 
 ![my_image](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg)
 
+![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
+ 
+ 
+ 
 * Split between train and test set:
 
 ![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
