@@ -1,5 +1,17 @@
 # Table of contents
 - [Project 1. Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices](#P1)
+- [Project 2. NYSE Prediction of Prices](#P2)
+- [Project 3. Electronic Signature of Loans] (#P3)
+- [Project 4. Hybrid Mutual Fund Analysis] (#P4)
+- [Project 5. Linear Regression in E-commerce] (#P5)
+- [Project 6. Advertisement with ML] (#P6)
+- [Project 7. Detecting fraud with ML] (#P7)
+- [Project 8. NLP MiniProject] (#P8)
+- [Project 9. Classification of galaxies, stars and quasars] (#P9)
+- [Project 10. Miniproject DL: Breast cancer detection] (#P10)
+- [Project 11.DL project; Yolo object detection] (#P11)
+- [Project 12. Tinder recommendation system] (#P12)
+- [Project 13. Clustering for Uber Pickups] (#P13)
   
 # [Project 1.Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices](https://github.com/Andreoliveira85/Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices) <a name="P1"></a>
 **Final project for concluding the Fullstack formation in Data Science at Jedha in Paris.**
@@ -62,3 +74,18 @@ The tendency of the index that we built on the classification of the tweets is p
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/prophets_results_reality.jpg)
 
 **Conclusion:** the predictions of our LSTM model when are used as predictors in the FB Prophet algorithm produce new predictions that are close of the close actual value of the BTC according to Google Finance during a couple days (15 Sept until beg October). After that the actual value takes off much more than the predictions. This can be empirically understood due to the big component of noise in this time series and the recent bubble effect registered with BTC in the crypto space that is steeper than the high derivative of prices in 2017. According to this model this would be a good time to sell.
+
+
+# [Project 2. NYSE Prediction of Prices]  <a name="P2"></a>
+# [Project 3. Electronic Signature of Loans]  <a name="P3"></a>
+# [Project 4. Hybrid Mutual Fund Analysis]   <a name="P4"></a>
+# [Project 5. Linear Regression in E-commerce]   <a name="P5"></a>
+# [Project 6. Advertisement with ML]   <a name="P6"></a>
+# [Project 7. Detecting fraud with ML]  <a name="P7"></a>
+# [Project 8. NLP MiniProject] <a name="P8"></a>
+# [Project 9. Classification of galaxies, stars and quasars]   <a name="P9"></a>
+# [Project 10. Miniproject DL: Breast cancer detection]   <a name="P10"></a>
+# [Project 11.DL project; Yolo object detection]  <a name="P11"></a>
+# [Project 12. Tinder recommendation system]   <a name="P12"></a>
+# [Project 13. Clustering for Uber Pickups]   <a name="P13"></a>
+  
