@@ -1,5 +1,5 @@
 
-# P1. Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices
+# [Project 1. Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices](https://github.com/Andreoliveira85/Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices)
 **Final project for concluding the Fullstack formation in Data Science at Jedha in Paris.**
 
 ## Project overview:
