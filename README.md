@@ -41,37 +41,48 @@ The description of the datasets used is done on the slides of the [final present
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/pieplot_currencies.png)
 
 * The following boxplot indicates the volume of the coins. 
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/currencies_boxplot.png)
 
 * The following scatter plot (log scale to overcome the high skewness of the cloud around BTC) shows the predominance of BTC followed by the other coins when considering the variables close price and volume in the crypto space.
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/scatter_plot_volume_close_log.png)
 
 * The following graph represents the evolution of close prices of BTC over the last years. We remark the meteoric growth from 2016 to 2017 followed by a steep decline. During this year of 2020 we observe the highly fast increasing trend of the coin and we can observe around the 1st trimester the influence of the covid pandemic crisis on the prices.
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/bitcoin_prices.png)
 
 * The following plot represents the sentiment analysis on the tweets that we performed over the 13 different instiutional and private accounts.
 The tendency of the index that we built on the classification of the tweets is positive on BTC.
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg)
 
-* Split between train and test set
+* Split between train and test set:
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg)
 
 * The results of the LSTM model on the train set (April 2018-April 2020 approx.). The model learned quite well.
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_training_set.jpg). 
 
 * The results of our model on the test set (April 2020- mid Sept 2020). The trends are followed by the predictions. There is a time period where the model performs far worst than the actual prices (August-September) but then the actual prices and the predictions start to converge again in the last two weeks of the dataset almost coallescing in the end.
+
 ![https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_test_dataset.jpg]
 
 * The loss function (Mean squared error) on train and test set (per epoch). Scale 10^-3
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/loss_function.jpg)
 
 * The predictions built by our model were used as regressors to feed the FB Prophet algorithm. The seasonality effects of the predictions based on the LSTM predictors are shown below. Monthly and bigger size trends should be neglected since the coin is not mature enough for such extrapolations. Although interesting to note the weekly trend of the price going down on Thusrdays and going up during the weekends.
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/prophet_model2.jpg)
 
 * The results of the Prophetization of our predictions:
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/prophet_model.jpg)
 
 * The contrast of the predictions of the FB Prophet model feeded by the outputs of the LSTM net we built with the actual prices from 15 Sept 2020 until 30 November 2020 (fetched on Google Finance)
+
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/prophets_results_reality.jpg)
 
 **Conclusion:** the predictions of our LSTM model when are used as predictors in the FB Prophet algorithm produce new predictions that are close of the close actual value of the BTC according to Google Finance during a couple days (15 Sept until beg October). After that the actual value takes off much more than the predictions. This can be empirically understood due to the big component of noise in this time series and the recent bubble effect registered with BTC in the crypto space that is steeper than the high derivative of prices in 2017. According to this model this would be a good time to sell.
