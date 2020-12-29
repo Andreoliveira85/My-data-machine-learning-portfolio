@@ -55,7 +55,7 @@ The description of the datasets used is done on the slides of the [final present
 * The following plot represents the sentiment analysis on the tweets that we performed over the 13 different instiutional and private accounts.
 The tendency of the index that we built on the classification of the tweets is positive on BTC.
 
-![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg)
+![my_image](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg)
 
 * Split between train and test set:
 
