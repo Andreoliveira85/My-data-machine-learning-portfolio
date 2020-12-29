@@ -55,34 +55,17 @@ The description of the datasets used is done on the slides of the [final present
 * The following plot represents the sentiment analysis on the tweets that we performed over the 13 different instiutional and private accounts.
 The tendency of the index that we built on the classification of the tweets is positive on BTC.
 
-![my_image](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg)
-
-![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
- 
+![my_image](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sentiment_analysis_tweets2.jpg) 
  
  
 * Split between train and test set:
-
-![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
-
-* split
- <img src="https://full-stack-assets.s3.eu-west-3.amazonaws.com/images/utility_matrix.png"/>
 
 
 * split <img src="https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg" />
 
 
-* split 
-
-![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/training_test_dataset.jpg)
 
 * The results of the LSTM model on the train set (April 2018-April 2020 approx.). The model learned quite well.
-
-![](https://miro.medium.com/max/690/1*G4h4fOX6bCJhdmbsXDL0PA.png)
-
-
-llll
-
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_training_set.jpg). 
 
@@ -115,6 +98,8 @@ Deep Learning project
 ## Project overview:
 
 We use two datasets relative to historical data for stocks market at the New York Stock Exchange market for the year 2016. We performed an exploratory data analysis of those stocks and created a neural net mix of GRU with LSTM models to predict prices. The predictions and the real values follow the same trends of growth or ungrowth genreally speaking and around certain periods of time (before the 50th day of that year and around day 130) they almost coalesce. 
+
+* Performance of the algorithm 
 
 ## Code and resources used:
 **Python version:** 3.7
