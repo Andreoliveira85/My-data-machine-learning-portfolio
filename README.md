@@ -87,8 +87,8 @@ The tendency of the index that we built on the classification of the tweets is p
 # [Project 9. Classification of galaxies, stars and quasars](https://github.com/Andreoliveira85/classification-galaxies-stars-and-quasars)   <a name="P9"></a>
 # [Project 10. Miniproject DL: Breast cancer detection](https://github.com/Andreoliveira85/MiniProject-DL-Breast-cancer-detection)   <a name="P10"></a>
 # [Project 11.DL project: Yolo object detection](https://github.com/Andreoliveira85/NLP-Project-with-Deep-Learning)  <a name="P11"></a>
-# [Project 12. Tinder recommendation system]()   <a name="P12"></a>
-# [Project 13. Clustering for Uber Pickups]()   <a name="P13"></a>
-# [Project 14. NLP-Project-with-Deep-Learning: Construction of a Translator machine] <a name="P14"></a>
+# [Project 12. Tinder recommendation system](https://github.com/Andreoliveira85/Tinder-recommendation-system)   <a name="P12"></a>
+# [Project 13. Clustering for Uber Pickups](https://github.com/Andreoliveira85/Uber-Pickups)   <a name="P13"></a>
+# [Project 14. NLP-Project-with-Deep-Learning: Construction of a Translator machine](https://github.com/Andreoliveira85/NLP-Project-with-Deep-Learning) <a name="P14"></a>
 
   
