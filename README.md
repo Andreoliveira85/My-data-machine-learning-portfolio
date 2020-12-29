@@ -1,6 +1,6 @@
 
 # P1. Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices
-**Final project for concluding the Fullstack formation in Data Science at Jedha in Paris. **
+**Final project for concluding the Fullstack formation in Data Science at Jedha in Paris.**
 
 ## Project overview:
 
@@ -16,7 +16,7 @@
 ## Code and resources used:
 **Python version:** 3.7
 **Packages/Libraries:** pandas, numpy, plottly, seaborn, matplotlib, tweepy, prophet, tensorflow, keras, scikit-learn, textblob, wordcloud.
-**Datasets involved:** kaggle historical datasets on prices of BTC and other top coins. datasets of tweets created by several scrapped tweet accounts. 
+**Datasets involved:** kaggle historical datasets on prices of BTC and other top coins, datasets of tweets created by several scrapped tweet accounts. 
 
 ### Sidenotes: 
 the description of the datasets used is done ine the slides of the final presentation. We could not upload the datasets here due to its size. We invite the visitor to check the graphics and visualizations created on the notebooks displayed in the final presentation.
