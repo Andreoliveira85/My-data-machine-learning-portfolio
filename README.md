@@ -1,6 +1,4 @@
-# My data machinelearning portfolio
-
-**Portfolio with data science and machine learning projects I worked on:**
+#**Portfolio with data science and machine learning projects I worked on:**
 
 # Sentiment-analysis-of-Tweets-and-prediction-of-bitcoin-prices
 Final project for concluding the Fullstack formation in Data Science at Jedha in Paris. 
