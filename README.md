@@ -206,6 +206,30 @@ After cleaning the dataset we start with a exploratory visualisation analysis of
 time_delta of the purchases, the country with higher fraud percentages, the source and the browser from the purchase and age are the most important variables according to the NAive Bernoulli Bayes model to understand and predict fraud probabilities. As a second approach we use support vector machines to predict fraud. This second model has a score of 0.931111307186659. We use GridSearchCV for hyper parameter tunning and we retrieve as optimal parameters {'C': 50, 'gamma': 0.005}. For these optimal parameters the score on the train set is 0.9071356992947494
 againsts (a non over fitting) score on the test set of 0.9073101866149027.
 
+* Fraud rate detected in the EDA
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/fraud_rate.jpg)
+
+* Confusion matrix and scores using Naive Bayes model:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/fraud_confusion_matrix_naive_abyes.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/fraud_rate_naive_bayes.jpg)
+
+* Feature importance hierarchy using Naive Bayes model:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/fraud_feature_imp_naive_bayes.jpg)
+
+
+* ROC using Naive Bayes model:
+
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/roc_fraud.jpg)
+
+
+* Scores using SVM classifiers with GridSearch:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/sVC_score_grid_search.jpg)
 
 
 ## Resources and code used:
