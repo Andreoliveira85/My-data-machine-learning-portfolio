@@ -150,6 +150,29 @@ of the model (that in this case is not highly required since there is no overfit
 underfitting (Score on the train set : 0.981235530537366 vs Score on the test set : 0.9787641440205315) and the best performance for Ridge regularization on the model
 is the vanishing coefficient 0 reducing it to the clasical linear regression model that we built in the first try.
 
+
+## Some visualizations:
+
+* Bivariate EDA
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model_yearly_amount_spent_vs_time_website.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model2.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model3.jpg)
+
+* Empirical Evidence supporting linear regression:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model_evidence_regression.jpg)
+
+* Gaussian residuals of the linear model:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model_gaussian_residuals.jpg)
+
+* Coefficients of the linear model:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/linear_model_coeff.jpg)
+
 ## Code and resources used:
 **Python version:** 3.7
 
