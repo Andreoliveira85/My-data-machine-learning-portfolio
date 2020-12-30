@@ -77,6 +77,16 @@ The tendency of the index that we built on the classification of the tweets is p
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/loss_function.jpg)
 
+* About the 1 day forward returns of the BTC:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/returns_new_model_train_set.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/returns_test_set_new_model.jpg)
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/fig2.jpg)
+
+
+
 * The predictions built by our model were used as regressors to feed the FB Prophet algorithm. The seasonality effects of the predictions based on the LSTM predictors are shown below. Monthly and bigger size trends should be neglected since the coin is not mature enough for such extrapolations. Although interesting to note the weekly trend of the price going down on Thusrdays and going up during the weekends.
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/prophet_model2.jpg)
