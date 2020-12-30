@@ -137,7 +137,6 @@ Confrontation of several Machine Learning algorithms to predict (classification)
 
 
 # [Project 5. Linear Regression in E-commerce](https://github.com/Andreoliveira85/Project-Linear-regression-in-E-commerce)   <a name="P5"></a>
-# Project-Linear-regression-in-E-commerce
 
 # Project description:
 
