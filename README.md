@@ -128,6 +128,26 @@ Confrontation of several Machine Learning algorithms to predict (classification)
   
   * A hybrid fund is an investment fund that is characterized by diversification among two or more asset classes. These funds typically invest in a mix of stocks and bonds. The term hybrid indicates that the fund strategy includes investment in multiple asset classes. These funds offer investors an option for investing in multiple asset classes through a single fund. These funds can offer varying levels of risk tolerance ranging from conservative to moderate and aggressive. We carry a thorough exploratory visualization analysis of a dataset of funds traded by a firm in order to identify bad/good schemes according to several criteria. The exploration is done by multivariate analysis of the different variables of the dataset.
 
+## Preview of some visualizations:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid1.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid2.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid3.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid4.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid5.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid6.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid7.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid8.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid9.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid10.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid11.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid12.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid13.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid14.jpg)
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hybrid15.jpg)
+
+
+
 ## Code and resources used:
 **Python version:** 3.7
 **Packages:libraries:** numpy, pandas, matplotlib, seaborn.
