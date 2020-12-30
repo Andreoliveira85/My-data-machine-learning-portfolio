@@ -546,6 +546,7 @@ Therefore, our project aims to retrieve a recommendation system such that **thei
 ### We will focus on:
 * Creating an algorithm to find hot zones DBSCAN vs Kmeans 
 * Visualizing results on a nice dashboard 
+* We will focus on NYC city data.
 
 ## Visualizations of the clusters by Kmeans (evolution during hourly periods):
 
@@ -592,7 +593,7 @@ i.e. :
 
 This gives a *shape* -> `(batch_size, max_len_of_a_sentence)`.
 
-The clues correspond to a number that you will have to assign for each word token. 
+The clues correspond to a number that we will have to assign for each word token. 
 
 The zeros correspond to what are called [*padded_sequences*](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/sequence/pad_sequences) which allow all word sequences to have the same length (mandatory for your algorithm). 
 
@@ -630,7 +631,7 @@ Also, we acknowledge the inspiration from the [Neural Machine Translation with A
 
 ## Code/resources used:**
 **Python version:** 3.7
-**Libraries/packages used:** keras, tensorflow, numpy
+**Libraries/packages used:** keras, tensorflow, numpy, pandas, spacy
 
 
   
