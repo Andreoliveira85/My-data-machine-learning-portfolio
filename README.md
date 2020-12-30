@@ -184,6 +184,55 @@ algorithms: logistic regression and random forest classifiers. After initial EDA
 than the logistic model(90%). Using the random forest model we create a hiearchy of features importance. We conclude that the variable more influencial to predict
 clicks on the ad is the daily internet usage of the user that visits the website. Since this is a variable that we can not control we decided to run the random forest model where this variable is erased from the ensemble of explanatory features. The score of the model goes a bit down when we run this version of the algorithm. Although interestingly we register in the hierachy of the new features importance that the variable are income surpasses the varaible age (which does not happen in the features importance of the first model). The third part of this project concerns hypothesis A/B testing where we analyse different confidence intervals (5% and 40% associated risk levels respectively) for the proportion rate of clicks done by male and female visitors. For the smallest level of risk 5% nothing can be concluded. Although for the higher level of 40% risk we observe empirically by random sampling thar the proportion of clicks on the add done by females surpasses the one done by males. This can be seen as a first indication of a marketing future strategy to be implemented. Although the Qui2 test built with 5% risk tell us that the variables "click on the add" and "gender" are independent concluding this discussion.  
 
+# Visualizations:
+
+* Multivariate EDA: Age vs area income
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/adv_area_income_age.jpg)
+
+* Multivariate EDA: Age vs daily time spent on site
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/daily_time_site_age.jpg)
+
+* Multivariate EDA: Daily internet usage vs daily time spent on site
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/daily_time_site_daily_int_usage.jpg)
+
+* Classification report of the logistic regression model on the test validation set:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/classification_report_logistic_model.jpg)
+
+*  Classification report of the random forest classifier on the test validation set:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/classification_report_rf.jpg)
+
+
+* Feature importance hierarchy using the random forest classifier:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/feature_imp1.jpg)
+
+*  Feature importance hierarchy running the random forest classifier with deprecation of the variable "daily internet usage of the user":
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/feature_imp_2.jpg)
+
+* Empirical click rate on the add per gender:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/empirical_click_rate.jpg)
+
+* Hypothesis testing for the click rates with 5% risk on the confidence level:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hyp_test1.jpg)
+
+* * Hypothesis testing for the click rates with 40% risk on the confidence level:
+
+![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/hyp_testing2.jpg)
+ 
+
+
+
+ 
+
+
 
 
 ## Code and resources used:
