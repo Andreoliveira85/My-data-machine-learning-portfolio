@@ -73,7 +73,7 @@ The tendency of the index that we built on the classification of the tweets is p
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/model_test_dataset.jpg)
 
-* The loss function (Mean squared error) on train and test set (per epoch). Scale 10^-3
+* The loss function (Mean squared error) on train (blue) and test (orange) set (per epoch). Scale 10^-3
 
 ![](https://github.com/Andreoliveira85/My-data-machine-learning-portfolio/blob/main/images_folder/loss_function.jpg)
 
