@@ -123,7 +123,7 @@ We use two datasets relative to historical data for stocks market at the New Yor
 # [Project 3. Electronic Signature of Loans](https://github.com/Andreoliveira85/electronic-signature-loans)  <a name="P3"></a>
 ## Project description: 
 
-Confrontation of several Machine Learning algorithms to predict (classification) electronic signature of contracts. The dataset is a collection of financial info from clients  of a  private anonymous firm. The ML algorithms used were ANN, support vector machines and ensemble learning techniques: random forest classifiers, gradient boosting and adaboost. The algorithms with best score were our neural netowork and the random forest clasifier. 
+Confrontation of several Machine Learning algorithms to predict (classification) electronic signature of contracts. The dataset is a collection of financial info from clients  of a  private anonymous firm. The ML algorithms used were ANN, support vector machines and ensemble learning techniques: random forest classifiers, gradient boosting and adaboost. The algorithms with best score were our neural network and the random forest classifier. 
 
 ## Code and resources used:
 **Python version:** 3.7
